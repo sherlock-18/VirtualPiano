@@ -1,4 +1,4 @@
-#Virtual Piano
+#VirtualPiano
 
 The Virtual Piano project is an interactive and engaging application that transforms your computer keyboard into a musical instrument.
 
